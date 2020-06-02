@@ -31,3 +31,13 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+.who {width:400px;
+height: 175px;
+display: flex;
+align-items: center;
+flex-direction: column;
+border: 2px solid rgb(170, 170, 170);
+background-color:white;
+padding: 2;
+margin: 2;
+}
